@@ -69,9 +69,6 @@ Item 2
 ~ Definition for Item 2
 ~ Another definition for Item 2, with a [link](http://www.example.com)
 
-####Images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 ### Blockquote
 As Kanye West said:
